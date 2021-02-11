@@ -1229,3 +1229,15 @@ movie202:
     - anime
     - official
   update: 2020/03/11
+jibajibatafutafu:
+  url: https://ameblo.jp/jibajibatafutafu
+  title: >
+    アンパンマン大好きヲタクによるアンパンマンのあらすじと感想
+  ruby: >
+    あんぱんまんだいすきをたくによるあんぱんまんのあらすじとかんそう
+  description: >
+    アニメの各話紹介しているブログ。
+  tags:
+    - anime
+    - blog
+  update: 2021/02/11
