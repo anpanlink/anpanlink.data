@@ -8,7 +8,7 @@ portal:
     有限責任事業組合アンパンマンデジタル（略称：APDLLP）が運営するアンパンマン公式サイト。
     マルチメディア展開されるアンパンマンを幅広く取り扱っています。
     投稿コーナーは毎週更新。
-  category:
+  tags:
     - anime
     - event
     - music
@@ -29,7 +29,7 @@ ntvanpanman:
   description: |
     日本テレビの公式サイト。
     ほとんどの役割をポータルサイトに移し、もはや形骸化したサイトだが放送のお知らせだけは毎週更新されている。
-  category:
+  tags:
     - anime
     - goods
     - game
@@ -42,7 +42,7 @@ anpandb:
   description: |
     アニメ版「それいけ！アンパンマン」の放映データと感想などをまとめたサイト。
     登場キャラクターや歌などでも検索できる。
-  category:
+  tags:
     - anime
     - music
     - q_and_a
@@ -59,7 +59,7 @@ tmsanpanman:
   description: |
     アニメ制作元の東京ムービーの公式サイト。
     最近は更新していない模様。
-  category:
+  tags:
     - anime
     - official
   update: 2019/02/09
@@ -75,7 +75,7 @@ kidsstation:
   description: |
     キッズステーションの公式サイト。
     初期エピソードを毎日放送しているほか、劇場版も放送している。
-  category:
+  tags:
     - anime
     - official
   update: 2017/09/05
@@ -86,7 +86,7 @@ attic29:
   description: |
     アンパンマンやニャンダーかめんのイラストを中心としたブログ。
     最近は更新していない模様。
-  category:
+  tags:
     - illust
     - blog
   update: 2019/07/15
@@ -97,7 +97,7 @@ cremupanda:
   description: |
     毎週放映されるアンパンマンの感想を書いているサイトです。
     たまにキャラクター紹介などもやっています。
-  category:
+  tags:
     - anime
     - illust
     - blog
@@ -109,7 +109,7 @@ anpanmanshop:
   description: |
     アンパンマンショップの公式サイト。
     現在はトップページのみとなっている。
-  category:
+  tags:
     - goods
     - official
     - facilities
@@ -122,7 +122,7 @@ froebel:
   description: |
     絵本の紹介など。
     大人向けの書籍も紹介している。
-  category:
+  tags:
     - official
     - book
   update: 2019/08/04
@@ -133,7 +133,7 @@ anpanmanmuseum:
   description: |
     やなせたかし氏本人が名誉館長を勤める香美市立やなせたかし記念館アンパンマンミュージアムの公式サイト。
     コレクションのページでイラストが見られる（ただし縮小画像）。
-  category:
+  tags:
     - illust
     - official
     - facilities
@@ -149,7 +149,7 @@ yokohama:
   description: |
     10周年を迎えた横浜アンパンマンこどもミュージアム＆モールの公式サイト。
     人形劇もやっているようだ。
-  category:
+  tags:
     - event
     - goods
     - official
@@ -164,7 +164,7 @@ nagoya:
   description: |
     名古屋アンパンマンこどもミュージアム＆パークの公式サイト。
     園内の案内やお知らせなど。
-  category:
+  tags:
     - event
     - goods
     - official
@@ -177,7 +177,7 @@ uyamuyabunko:
   description: |
     アンパンマンの小説を掲載しているサイト。
     ※年齢制限のある作品も含まれるため閲覧注意。
-  category:
+  tags:
     - novel
   update: 2020/03/11
 creampandadayo:
@@ -188,7 +188,7 @@ creampandadayo:
     クリームパンダを愛するブログ。
     クリームパンダの話題が少なくなっても、あらゆる写真上でクリームパンダが存在感を示している。
     (2011年ごろから更新なし)
-  category:
+  tags:
     - character
     - blog
   update: 2019/02/09
@@ -200,7 +200,7 @@ bokurano:
   description: |
     絵本版を中心とした様々な情報を掲載。
     ※一部の作品や読者に対する敵対的な様子が見られるため閲覧注意。
-  category:
+  tags:
     - book
   update: 2020/03/11
 happydrink:
@@ -213,7 +213,7 @@ happydrink:
   description: |
     アサヒ飲料のホームページ。
     飲み物自体はアンパンマンとは関係ないが、キャラ弁の紹介やブラウザで遊べるゲームがある。
-  category:
+  tags:
     - kyaraben
     - goods
     - game
@@ -225,7 +225,7 @@ antrain:
   description: |
     四国を走るアンパンマン列車。
     スタンプラリーの情報も。
-  category:
+  tags:
     - event
     - official
   update: 2017/07/04
@@ -237,7 +237,7 @@ vap:
   description: |
     DVDやCDの情報。
     VHSのデータは閲覧できなくなっている模様。
-  category:
+  tags:
     - anime
     - music
     - goods
@@ -250,7 +250,7 @@ wikipedia:
     Wikipedia内アンパンマンのページ。
     該当ページは絵本版の情報だが、メカに関してはアニメ版準拠。
     アニメやキャラクターの情報へもここからたどれる。
-  category:
+  tags:
     - wiki
     - book
   update: 2019/05/16
@@ -263,7 +263,7 @@ wikipedia:
   description: |
     ２ちゃんねるのスレッド。
     アニメ版総合。
-  category:
+  tags:
     - anime
     - bbs
   update: 2018/05/19
@@ -276,7 +276,7 @@ wikipedia:
   description: |
     ２ちゃんねるのスレッド。
     誰がどの程度強いか。
-  category:
+  tags:
     - bbs
     - consider
   update: 2017/02/11
@@ -289,7 +289,7 @@ rorepage:
     ろーるぱんなだいすきしゅちょうぐみ
   description: >
     ロールパンナ好きを主張する同盟。
-  category:
+  tags:
     - character
     - union
   update: 2018/01/30
@@ -300,7 +300,7 @@ pankoubou:
   description: |
     アンパンマンのイラストを掲載しているサイト。
     掲示板は機能していない。
-  category:
+  tags:
     - illust
     - personification
     - links
@@ -313,7 +313,7 @@ daiyaru999:
   description: |
     アンパンマンの擬人化イラストサイト。
     フォルダアイコンも。
-  category:
+  tags:
     - illust
     - personification
     - links
@@ -327,7 +327,7 @@ nicodic:
     ニコニコ大百科の１ページ。
     ミントちゃんのページが妙に詳しい。
     このページからニコニコ動画のタグ検索に飛べる。
-  category:
+  tags:
     - anime
     - illust
     - wiki
@@ -342,7 +342,7 @@ pixiv:
     ピクシブでの検索結果。
     他にもいくつかキャラ個別でタグが作られています。
     不特定多数の描いた絵が出てくるので擬人化やらなにやらごちゃ混ぜです。
-  category:
+  tags:
     - illust
     - personification
     - search
@@ -356,7 +356,7 @@ fullmoon:
   description: |
     アンパンマンの小説があります。
     一日だけカバオになってしまうお話など。
-  category:
+  tags:
     - novel
   update: 2017/12/20
 ccweb:
@@ -367,7 +367,7 @@ ccweb:
   description: |
     アンパンマン擬人化イラストのサイト。
     ちょっと入りにくいけどそういう分野だから仕方ない。
-  category:
+  tags:
     - illust
     - personification
   update: 2017/09/05
@@ -379,7 +379,7 @@ anlabo:
   description: |
     アニメの放映データやキャラ紹介、ジャムおじさんに関する考察。
     ※アダルトグッズの広告が出るため閲覧注意。
-  category:
+  tags:
     - anime
     - consider
     - database
@@ -391,7 +391,7 @@ rolldoumei:
   ruby: ろーるぱんなどうめい
   description: >
     ロールパンナちゃんがとってもLOVELYな人のための同盟です。
-  category:
+  tags:
     - character
     - union
     - links
@@ -405,7 +405,7 @@ komegu:
     かんたんかわいいおべんとうのつくりかたなんばーつー
   description: >
     キャラ弁の作り方を紹介していて、アンパンマンキャラのお弁当もいくつも紹介しています。
-  category:
+  tags:
     - kyaraben
   update: 2020/03/05
 hatena:
@@ -415,7 +415,7 @@ hatena:
     あんぱんまんとははてなきーわーど
   description: >
     はてなキーワードでのアンパンマンの解説。
-  category:
+  tags:
     - wiki
     - book
   update: 2019/05/16
@@ -426,7 +426,7 @@ anpanimages:
   description: |
     かわいいアンパンマン画像を集めたサイト。
     肝心のキャラクター画像は転載とリンク切ればかりだが、壁紙やキャラの紹介文などもある。
-  category:
+  tags:
     - illust
     - wallpaper
   update: 2017/02/04
@@ -437,7 +437,7 @@ anpanstudio:
   description: |
     テーマ別にいろいろなサイトにリンクしている。
     移転先の「アンパンマン大好き」は閉鎖され全く別のサイトになっている。
-  category:
+  tags:
     - links
   update: 2017/02/11
 muhi:
@@ -447,7 +447,7 @@ muhi:
   description: |
     池田模範堂ホームページ内、アンパンマンのブランドサイト。
     子供が嫌がる薬もアンパンマンの絵があれば喜んで使うというケースがあるようです。
-  category:
+  tags:
     - goods
     - official
   update: 2017/02/04
@@ -460,7 +460,7 @@ bs4:
   description: |
     BS日テレの番組「それいけ！アンパンマンくらぶ」の公式サイト。
     番組紹介だけでなく料理や工作のページも。
-  category:
+  tags:
     - anime
     - kyaraben
     - official
@@ -473,7 +473,7 @@ anpandoumei:
   description: |
     アンパンマンラブな人が集う同盟デス。
     でも今はもう機能していないみたいデス。
-  category:
+  tags:
     - union
   update: 2018/04/15
 damepan:
@@ -484,7 +484,7 @@ damepan:
   description: |
     アンパンマンを変な方向に愛する方々のための同盟です。
     独特な感じのイラストもあります。
-  category:
+  tags:
     - illust
     - union
   update: 2018/05/19
@@ -495,7 +495,7 @@ tawasisan:
   description: |
     おそうじトリオの一人、たわしさんが大好きな人のための同盟です。
     わたしはたわし。文句あっか！？
-  category:
+  tags:
     - character
     - union
   update: 2019/09/04
@@ -506,7 +506,7 @@ baikindoumei:
   ruby: ばいきんまんどうめい
   description: >
     ばいきんまんが好きな人のための同盟。
-  category:
+  tags:
     - character
     - union
   update: 2018/08/04
@@ -517,7 +517,7 @@ sks:
   description: |
     食パンマンとカレーパンマンのＣＰ同盟です。
     食×辛派、辛×食派、リバ派…とにかくこの二人の組み合わせが好きな方は是非ｖ
-  category:
+  tags:
     - personification
     - character
     - union
@@ -532,7 +532,7 @@ niconico:
   description: |
     ニコニコ動画でのアンパンマン関連タグ検索結果。
     ユーザー投稿コンテンツ。
-  category:
+  tags:
     - search
   update: 2019/07/08
 pixpedia:
@@ -544,7 +544,7 @@ pixpedia:
     あんぱんまんとはぴくしぶひゃっかじてん
   description: >
     ピクシブ百科事典でのアンパンマンのページ。
-  category:
+  tags:
     - illust
     - wiki
   update: 2019/07/15
@@ -554,7 +554,7 @@ puppet:
   ruby: ゆびにんぎょうだいずかん
   description: >
     様々な指人形の情報を取り扱っており、アンパンマンの指人形についても充実しています。
-  category:
+  tags:
     - goods
     - database
   update: 2018/05/19
@@ -564,7 +564,7 @@ lady:
   ruby: れでぃ
   description: >
     アンパンマン×ロールパンナの小説があります。
-  category:
+  tags:
     - novel
   update: 2020/03/03
 sorebata:
@@ -575,7 +575,7 @@ sorebata:
     「それいけ！アンパンマン」のエピソードやキャラクターなどを紹介しているブログ。
     初期エピソードと最近のエピソードに強い印象。
     管理人がバタコと名乗っているだけで、バタコさんを特別重視しているわけではない模様。
-  category:
+  tags:
     - anime
     - database
     - blog
@@ -588,7 +588,7 @@ vaponlineshop:
   description: |
     VAP ONLINE SHOP内のアンパンマン特集ページ。
     DVDとCDを取り扱っている。
-  category:
+  tags:
     - anime
     - music
     - onlineshop
@@ -603,7 +603,7 @@ kaonure:
   description: |
     アンパンマンのピンチを専門に扱ったサイト。
     各話をピンチ度合いに応じて☆☆☆☆☆～★★★★★の6段階に分類しています。
-  category:
+  tags:
     - anime
     - database
   update: 2018/02/16
@@ -615,7 +615,7 @@ yanasaannpann:
     あんぱんまんについてくわしくしろう
   description: >
     名前の通り、アンパンマンのキャラクターや関連する物事について比較的詳しく書かれています。
-  category:
+  tags:
     - anime
     - character
     - facilities
@@ -628,7 +628,7 @@ anpanmancom:
   ruby: あんぱんまんといっしょ
   description: >
     アンパンマンに関係する色々なサイトなどを紹介しているサイトです。
-  category:
+  tags:
     - anime
     - music
     - character
@@ -644,7 +644,7 @@ kobe:
   description: |
     2013年4月オープンの神戸アンパンマンこどもミュージアム＆モールの公式サイト。
     園内の案内やお知らせなど。
-  category:
+  tags:
     - event
     - goods
     - official
@@ -657,7 +657,7 @@ tsugumi:
   description: |
     アンパンマン及びムーミンのイラストサイト。
     原型・擬人化の両方がある。
-  category:
+  tags:
     - anime
     - illust
     - personification
@@ -671,7 +671,7 @@ sendai:
   description: |
     仙台アンパンマンこどもミュージアム＆モールの公式サイト。
     園内の案内やお知らせなど。
-  category:
+  tags:
     - event
     - goods
     - official
@@ -686,7 +686,7 @@ anpanmanshop2:
     あんぱんまんしょっぷふらのみせ
   description: >
     北海道ふらのジャム園にあるアンパンマンショップ２号店。
-  category:
+  tags:
     - official
     - facilities
   update: 2017/08/05
@@ -696,7 +696,7 @@ mikamayu:
   ruby: あんぱんまんとなかまたち
   description: >
     アンパンマンに登場するキャラクターや技などを紹介しているサイトです。
-  category:
+  tags:
     - anime
     - character
   update: 2017/08/05
@@ -710,7 +710,7 @@ kidscollection:
     アンパンマンの衣類を取り扱うアンパンマンキッズコレクションの公式サイト。
     各種商品を紹介している。
     ここで見つけた商品はバンダイプレミアムのオンラインショップで買うことが可能。
-  category:
+  tags:
     - onlineshop
     - goods
     - official
@@ -724,7 +724,7 @@ yatagaras:
   description: |
     アンパンマンキャラのカステラ男爵の絵が多めのサイト。
     かなり使いづらいレイアウトだが、絵はいい。
-  category:
+  tags:
     - illust
     - character
   update: 2017/09/05
@@ -735,7 +735,7 @@ anpanmanchannel:
   description: |
     アンパンマン公式動画配信サービスだった。
     2019年2月28日サービス終了。
-  category:
+  tags:
     - official
     - isolated
   update: 2019/09/04
@@ -747,7 +747,7 @@ fukuoka:
     ふくおかあんぱんまんこどもみゅーじあむいんもーる
   description: >
     2014年4月にオープンしたアンパンマンこどもミュージアムの公式サイト。
-  category:
+  tags:
     - official
     - facilities
   update: 2017/10/06
@@ -757,7 +757,7 @@ anchu:
   ruby: それいけあんぱんまちゅう
   description: >
     各話感想等を画像つきで書き綴っているブログ。
-  category:
+  tags:
     - anime
     - blog
   update: 2017/11/18
@@ -768,7 +768,7 @@ movie2014:
   ruby: >
     りんごぼうやとみんなのねがいこうしきさいと
   description: 2014年劇場版の公式サイト。
-  category:
+  tags:
     - anime
     - official
   update: 2017/12/20
@@ -779,7 +779,7 @@ yokorobase:
   description: |
     原作者やなせたかしの遺志を後世に伝える使命を持って生まれたファンサイト。
     アンパンマンを中心としたやなせたかし作品の紹介等をしている。
-  category:
+  tags:
     - anime
     - music
     - book
@@ -792,7 +792,7 @@ taipei:
   description: |
     台湾のアンパンマン公式サイト。
     台湾のアンパンマンショップ「麵包超人館　台北」の登場に合わせ、2015年7月30日に開設。
-  category:
+  tags:
     - official
   update: 2019/11/29
 s3pan:
@@ -801,7 +801,7 @@ s3pan:
   ruby: じゃむおじさんにしらせて
   description: >
     アンパンマンのおすすめエピソード紹介やアンパンマンこどもミュージアムなどの記事を書いているブログ。
-  category:
+  tags:
     - anime
     - facilities
     - blog
@@ -815,7 +815,7 @@ anpanpicturebook:
     アンパンマンの絵本について年代ごと、シリーズごとに紹介しているブログ。
     収集している絵本の種類は多岐にわたる。
     また、ミュージカルの紹介もしている。
-  category:
+  tags:
     - book
     - database
     - blog
@@ -826,7 +826,7 @@ oideyo:
   ruby: おいでよあんぱんまんぬま
   description: >
     それいけ！アンパンマンのあらすじ紹介や感想をつづったブログ。
-  category:
+  tags:
     - anime
     - blog
   update: 2019/03/05
@@ -838,7 +838,7 @@ anpanmannavi:
     あんぱんまんみゅーじあむこうりゃくほうまとめ
   description: >
     名前の通り、アンパンマンこどもミュージアムをお得に楽しむポイントが抑えてある。
-  category:
+  tags:
     - facilities
   update: 2019/03/05
 battle-one:
@@ -849,7 +849,7 @@ battle-one:
     サイト全体としてはワンピースの考察サイトだが、アンパンマンの考察も充実している。
     BATTLE ONEというサイト名が示す通り、バトル方面の考察が特徴的。
     リンク先はアンパンマンのカテゴリページ。
-  category:
+  tags:
     - anime
     - character
     - consider
@@ -862,7 +862,7 @@ itohsangyo:
   description: |
     アンパンマンのバッグメーカー。
     アンパンマンこどもミュージアムの、ドキンちゃんのドキドキおしゃれショップの商品を製造している。
-  category:
+  tags:
     - goods
     - official
   update: 2019/07/16
@@ -876,7 +876,7 @@ kidscollectionshop:
     おんらいんしょっぷ
   description: >
     アンパンマンキッズコレクションのオンラインショップ。
-  category:
+  tags:
     - onlineshop
     - goods
     - official
@@ -888,7 +888,7 @@ tabibun:
     あんぱんまんとぐっずのおしろ
   description: >
     ジャンルやキャラクターから探せるアンパンマングッズ紹介サイト。
-  category:
+  tags:
     - anime
     - music
     - goods
@@ -901,7 +901,7 @@ yanaseaward:
   description: |
     優れた子ども文化の創造とその発展を図り、子ども文化の向上と振興に資するため、設立された賞。
     第一回は、やなせたかし100回目の誕生日となる2019年2月6日に発表される予定。
-  category:
+  tags:
     - official
   update: 2017/02/06
 acm:
@@ -913,7 +913,7 @@ acm:
   description: |
     各地のアンパンマンこどもミュージアムの運営会社。
     アンパンマンこどもミュージアムの運営理念や、運営する各施設の紹介など。
-  category:
+  tags:
     - official
     - facilities
   update: 2017/02/11
@@ -925,7 +925,7 @@ movie2016:
     おもちゃのほしのなんだとるんだこうしきさいと
   description: >
     2016年劇場版『おもちゃの星のナンダとルンダ』の公式サイト。
-  category:
+  tags:
     - anime
     - wallpaper
     - official
@@ -938,7 +938,7 @@ movie2017:
     ぶるぶるのたからさがしだいぼうけんこうしきさいと
   description: >
     2017年劇場版『ブルブルの宝探し大冒険！』の公式サイト。
-  category:
+  tags:
     - anime
     - official
   update: 2017/03/28
@@ -951,7 +951,7 @@ anpanmantvinfo:
     あんぱんまんほうそうびけんさくかんさいかんとう
   description: >
     登場キャラクターから関西と関東の放送日を検索できます。
-  category:
+  tags:
     - anime
     - database
   update: 2018/02/16
@@ -963,7 +963,7 @@ movie2018:
     かがやけくるんといのちのほしこうしきさいと
   description: >
     2018年劇場版『かがやけ！クルンといのちの星』の公式サイト。
-  category:
+  tags:
     - anime
     - official
   update: 2018/02/22
@@ -973,7 +973,7 @@ movietwitter:
   ruby: >
     えいがあんぱんまんこうしきついったー
   description: '映画「それいけ！アンパンマン かがやけ！クルンといのちの星」公式アカウント★映画の情報をたくさん配信していきます★6月30日（土）#元気100倍！ロードショー！★#映画デビュー は #アンパンマン ！'
-  category:
+  tags:
     - anime
     - official
   update: 2018/02/22
@@ -983,7 +983,7 @@ tougekaze:
   ruby: おむすびとうげのたびびと
   description: >
     おむすびまんファンによるブログ。
-  category:
+  tags:
     - anime
     - character
     - blog
@@ -994,7 +994,7 @@ hukahoka:
   ruby: かまどのひ
   description: >
     アンパンマン関係のことを書いているブログ。
-  category:
+  tags:
     - anime
     - blog
   update: 2018/02/23
@@ -1004,7 +1004,7 @@ sakusakuusagi:
   ruby: あいとゆうきのはなばたけ
   description: >
     アンパンマンに関して書いているブログ。
-  category:
+  tags:
     - blog
   update: 2018/02/23
 mangamanga:
@@ -1015,7 +1015,7 @@ mangamanga:
   description: |
     漫画とアニメ全般のサイトだが、アンパンマンのカテゴリも充実している。
     様々な観点から独自にランキングを行ったり、キャラクターやエピソードの紹介を行ったりしている。
-  category:
+  tags:
     - anime
     - character
     - consider
@@ -1030,7 +1030,7 @@ hulu:
   description: |
     テレビのエピソード30本と映画7本を月替わりで配信している。
     月額税抜933円(2019年5月現在)
-  category:
+  tags:
     - anime
     - vod
   update: 2019/10/09
@@ -1042,7 +1042,7 @@ dtv:
   description: |
     テレビのエピソード60本と映画20本以上を配信している。
     月額税抜500円(2019年5月現在)
-  category:
+  tags:
     - anime
     - vod
   update: 2019/05/16
@@ -1057,7 +1057,7 @@ unext:
   description: |
     テレビのエピソード30本と映画40本以上(同時上映含む)を月替わりで配信している。
     月額税抜1990円(2019年5月現在)
-  category:
+  tags:
     - anime
     - vod
   update: 2019/05/16
@@ -1072,7 +1072,7 @@ animehodai:
   description: |
     映画などを配信。
     月額税抜400円(2019年5月現在)
-  category:
+  tags:
     - anime
     - vod
   update: 2019/05/16
@@ -1086,7 +1086,7 @@ jcom:
   description: |
     J:COMオンデマンドでの「アンパンマン」の検索結果。
     テレビ放送のエピソードや映画が見られる。
-  category:
+  tags:
     - anime
     - search
     - vod
@@ -1101,7 +1101,7 @@ videopass:
   description: |
     テレビのエピソード30本と映画6本を配信している。
     月額税抜562円(2019年5月現在)
-  category:
+  tags:
     - anime
     - vod
   update: 2019/05/16
@@ -1116,7 +1116,7 @@ hikaritv:
     あんぱんまんちゃんねる
   description: >
     テレビのエピソードなどを配信している。
-  category:
+  tags:
     - anime
     - vod
   update: 2019/05/16
@@ -1129,7 +1129,7 @@ videomarket:
   description: |
     アンパンマンの映画を配信している。
     原則としてポイントを使用した都度課金。
-  category:
+  tags:
     - anime
     - vod
   update: 2019/05/16
@@ -1140,7 +1140,7 @@ baikore:
   description: |
     アンパンマンのグッズ、特にばいきんまん関係を中心に紹介するブログ。
     書籍やカードの紹介も行っている。
-  category:
+  tags:
     - card
     - goods
     - book
@@ -1152,7 +1152,7 @@ cardmanian1989yu:
   ruby: ぱんのまちかど
   description: >
     アンパンマンカードを紹介するブログ。
-  category:
+  tags:
     - card
   update: 2019/07/15
 bandai:
@@ -1164,7 +1164,7 @@ bandai:
     ばんだいあんぱんまんといぱーく
   description: >
     アンパンマンのおもちゃ、知育玩具に関するサイト。
-  category:
+  tags:
     - goods
     - official
   update: 2019/07/16
@@ -1176,7 +1176,7 @@ xn:
     それいけあんぱんまんあんぱんまんじょうほうきゃらくたーまとめ
   description: >
     アンパンマンの情報とかのまとめサイト。
-  category:
+  tags:
     - blog
   update: 2019/08/04
 fandom:
@@ -1186,7 +1186,7 @@ fandom:
   description: |
     アンパンマンの情報を掲載。
     ※転載や虚偽情報が多く見られ、実質的に機能していない。
-  category:
+  tags:
     - wiki
   update: 2020/03/11
 aniwotawiki:
@@ -1199,7 +1199,7 @@ aniwotawiki:
     アニヲタWiki(仮)アンパンマンのページ。
     やたら熱のこもった解説が特徴的。
     タグキーワード「アンパンマン」で関連ページも見に行ける。
-  category:
+  tags:
     - anime
     - wiki
     - character
@@ -1214,7 +1214,7 @@ uncyclopedia:
   description: |
     嘘と皮肉にあふれた百科事典、アンサイクロペディアの記事。
     もちろん、アンパンマン（本名、インペラトール・ユリウス・カエサル・マルクス・アウレリウス・テオドシウス・ホノリウス・コンスタンティヌス・ディオクレティアヌス・クラウディウス・アブドル・アブラカダブラ・アンルシウム・ビーケン・アントゥ・アドゥルシア・ピスツ・フラヴィウス・ウル・ジャム・アウグストゥス7世）についても、愉快な嘘だらけである。
-  category:
+  tags:
     - wiki
   update: 2019/11/09
 movie202:
@@ -1225,7 +1225,7 @@ movie202:
     ふわふわふわりーとくものくにこうしきさいと
   description: >
     作品情報、おしらせ、劇場情報があります。
-  category:
+  tags:
     - anime
     - official
   update: 2020/03/11
