@@ -1,0 +1,149 @@
+anime:
+  name: アニメ
+  ruby: あにめ
+  description: >
+    アニメ版「それいけ！アンパンマン」に関するサイトです。
+event:
+  name: イベント
+  ruby: いべんと
+  description: >
+    アンパンマンショーなどのイベントの情報を掲載しているサイトです。
+illust:
+  name: イラスト
+  ruby: いらすと
+  description: >
+    アンパンマンのイラストを掲載しているサイトです。
+wiki:
+  name: Wiki
+  ruby: うぃき
+  description: |
+    Wikipediaを含むWikiサイトのアンパンマンのページです。
+    いろんな人が編集しています。
+music:
+  name: 音楽
+  ruby: おんがく
+  description: >
+    アンパンマンの音楽に関するサイトです。
+onlineshop:
+  name: オンラインショップ
+  ruby: おんらいんしょっぷ
+  description: >
+    ネットで買って家まで届くというやつですね。
+card:
+  name: カード
+  ruby: かーど
+  description: >
+    アンパンマンカードに関するサイトです。
+wallpaper:
+  name: 壁紙
+  ruby: かべがみ
+  description: >
+    アンパンマンの壁紙を配布しているサイトです。
+personification:
+  name: 擬人化
+  ruby: ぎじんか
+  description: |
+    アンパンマンたちに人の姿を取らせた絵があるサイトです。
+    元々アンパンマンは人の姿をしているので、どちらかというと“美形化”かもしれません。
+character:
+  name: キャラクター
+  ruby: きゃらくたー
+  description: >
+    特定キャラクターに特化したサイトです。
+kyaraben:
+  name: キャラ弁
+  ruby: きゃらべん
+  description: >
+    アンパンマンのキャラクターの姿をかたどったお弁当の紹介や作り方など。
+q_and_a:
+  name: Q＆A
+  ruby: きゅーあんどえー
+  description: |
+    アンパンマンに関するいろんな疑問に答えてくれるサイトです。
+    何でも聞けば答えてくれる都合のいいサイトはさすがに存在しないようですが。
+goods:
+  name: グッズ
+  ruby: ぐっず
+  description: >
+    ぬいぐるみやおもちゃなど、キャラクター商品についての情報があるサイトです。
+bbs:
+  name: 掲示板
+  ruby: けいじばん
+  description: >
+    アンパンマンに関する掲示板またはスレッドです。
+game:
+  name: ゲーム
+  ruby: げーむ
+  description: >
+    ゲームの情報、ブラウザ上で遊べるゲームなどがあるサイトです。
+search:
+  name: 検索結果
+  ruby: けんさくけっか
+  description: >
+    いろんなサイトで「アンパンマン」を検索した結果です。
+consider:
+  name: 考察
+  ruby: こうさつ
+  description: >
+    アンパンマンの謎に関して考えをめぐらせているサイトです。
+official:
+  name: 公式
+  ruby: こうしき
+  description: >
+    どこからどこまでが「公式」なのかよくわかりませんが、公式サイトと思われるところです。
+facilities:
+  name: 施設
+  ruby: しせつ
+  description: >
+    アンパンマンの施設についての情報があるサイトです。
+novel:
+  name: 小説
+  ruby: しょうせつ
+  description: |
+    アンパンマンの小説が掲載されているサイトです。
+    原則として二次創作です。
+book:
+  name: 書籍
+  ruby: しょせき
+  description: >
+    絵本や紙芝居など、書籍の情報が掲載されているサイトです。
+database:
+  name: データベース
+  ruby: でーたべーす
+  description: >
+    アンパンマンに関する膨大なデータをまとめたサイトです。
+vod:
+  name: 動画配信
+  ruby: どうがはいしん
+  description: |
+    インターネットで動画配信を行っているサービスです。
+    PC、スマホ、テレビ等で試聴可能な場合が多いです。
+union:
+  name: 同盟
+  ruby: どうめい
+  description: >
+    志を同じくする者たちが集まるサイトです。
+blog:
+  name: ブログ
+  ruby: ぶろぐ
+  description: |
+    ブログ形式のサイトです。
+    話題がアンパンマンからそれがちなのもまあ、味といえば味。
+yanase:
+  name: やなせの言葉
+  ruby: やなせのことば
+  description: |
+    何と表現したらいいのか迷うところですが、アンパンマンの原作者やなせたかし氏からのメッセージが掲載されたサイトです。
+    もちろん書籍や他サイトからの転載に過ぎない場合は掲載しているうちに入りません。
+links:
+  name: リンク集
+  ruby: りんくしゅう
+  description: |
+    アンパンマン関連サイトへのリンク集があるサイトです。
+    だからこのページはリンク集のリンク集ですね。
+isolated:
+  name: 隔離
+  ruby: ？
+  description: |
+    事情により大っぴらにはお勧めできないサイトです。
+    それなのに隔離してまで掲載するというのには…やはり事情があるのです。
