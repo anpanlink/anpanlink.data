@@ -596,7 +596,7 @@ acm:
   tags:
     - official
     - facilities
-  update: 2017/02/11
+  update: 2021/02/23
 hukahoka:
   url: http://hukahoka.blog.fc2.com/
   title: かまどの火
@@ -681,11 +681,12 @@ jcom:
   description: |
     J:COMオンデマンドでの「アンパンマン」の検索結果。
     テレビ放送のエピソードや映画が見られる。
+    2020年3月31日にサービス終了。
   tags:
-    - anime
     - search
     - vod
-  update: 2019/05/16
+    - isolated
+  update: 2021/02/23
 s3pan:
   url: http://s3pan.blog.fc2.com/
   title: ジャムおじさんに知らせて
@@ -872,7 +873,7 @@ tsugumi:
     - anime
     - illust
     - personification
-  update: 2017/02/06
+  update: 2021/02/23
 nagoya:
   url: http://www.nagoya-anpanman.jp/
   title: >
