@@ -199,7 +199,7 @@ anpanstudio:
     移転先の「アンパンマン大好き」は閉鎖され全く別のサイトになっている。
   tags:
     - links
-  update: 2017/02/11
+  update: 2021/02/23
 jibajibatafutafu:
   url: https://ameblo.jp/jibajibatafutafu
   title: >
@@ -541,13 +541,12 @@ movie2016:
     おもちゃの星のナンダとルンダ公式サイト
   ruby: >
     おもちゃのほしのなんだとるんだこうしきさいと
-  description: >
+  description: |
     2016年劇場版『おもちゃの星のナンダとルンダ』の公式サイト。
+    2021年現在、閲覧できなくなっている。
   tags:
-    - anime
-    - wallpaper
-    - official
-  update: 2017/02/11
+    - isolated
+  update: 2021/02/23
 yatagaras:
   url: http://yatagaras.web.fc2.com/
   title: オレンジガラス
@@ -683,8 +682,6 @@ jcom:
     テレビ放送のエピソードや映画が見られる。
     2020年3月31日にサービス終了。
   tags:
-    - search
-    - vod
     - isolated
   update: 2021/02/23
 s3pan:
@@ -777,6 +774,20 @@ anchu:
     - anime
     - bbs
   update: 2018/05/19
+youtube:
+  url: >
+    https://www.youtube.com/channel/UCfdaUfp87XteaYEoQhljKXQ
+  title: 'それいけ!アンパンマン【アニメ公式】 - YouTube'
+  ruby: >
+    それいけあんぱんまんあにめこうしきゆーちゅーぶ
+  description: |
+    YouTubeの公式動画配信。
+    一部エピソードの無料配信と、劇場版の有料配信がある。
+    本編無料配信があるのは、2021年現在、YouTubeのみ。
+  tags:
+    - anime
+    - vod
+  update: 2021/02/23
 xn:
   url: https://xn--cck0eqb0ebb.com/
   title: >
