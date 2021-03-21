@@ -936,7 +936,7 @@ baikore:
     - blog
   update: 2019/07/15
 vap:
-  url: http://www.vap.co.jp/anpan/
+  url: https://www.vap.co.jp/anpan/
   title: '=VAP= アンパンマンDVD&CDガイド'
   ruby: >
     ばっぷあんぱんまんでぃーぶいでぃーあんどしーでぃーがいど
@@ -947,7 +947,7 @@ vap:
     - anime
     - music
     - goods
-  update: 2019/11/05
+  update: 2021/03/21
 pankoubou:
   url: http://pankoubou.fc2web.com/
   title: ぱん工房
